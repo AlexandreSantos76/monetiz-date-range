@@ -1,5 +1,5 @@
 {
-  "name": "react-date-range",
+  "name": "monetiz-date-range",
   "version": "1.2.0",
   "description": "A React component for choosing dates and date ranges.",
   "main": "dist/index.js",
